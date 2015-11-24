@@ -2,7 +2,6 @@ Qubes Tshirts
 =============
 
 
-
 ### Materials
 
 **Fairtrade White or Black**
@@ -32,6 +31,9 @@ These brands are also sold in bulk by the place that does the printing.
 
 #### Designs
 
-![Tshirt Logo Centered](https://raw.githubusercontent.com/bnvk/Designs/master/QubesOS/propaganda/Tshirt-Vneck-Centered.png)
+![Tshirt Logo Centered](https://raw.githubusercontent.com/bnvk/Designs/master/QubesOS/propaganda/Tshirts-Vneck-Centered.png)
 
-![Tshirt Logo Bottom](https://raw.githubusercontent.com/bnvk/Designs/master/QubesOS/propaganda/Tshirt-Vneck-Bottom.png)
+![Tshirt Logo Bottom](https://raw.githubusercontent.com/bnvk/Designs/master/QubesOS/propaganda/Tshirts-Vneck-Bottom.png)
+
+
+![Tshirt Logo Bottom Fingerprint](https://raw.githubusercontent.com/bnvk/Designs/master/QubesOS/propaganda/Tshirts-Vneck-Bottom-Fingerprint.png)

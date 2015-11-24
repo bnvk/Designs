@@ -40,4 +40,7 @@ These hoodies below are different styles offered by [Promodoro](www.promodoro-sh
 
 ![Hoodie Black Pullover](https://raw.githubusercontent.com/bnvk/Designs/master/QubesOS/propaganda/Hoodie-Design-Black-Pullover.png)
 
-![Hoodie White Zipper](https://raw.githubusercontent.com/bnvk/Designs/master/QubesOS/propaganda/Hoodie-Design-White-Zipper.png)
+
+![Hoodie Black Pullover Fingerprint](https://raw.githubusercontent.com/bnvk/Designs/master/QubesOS/propaganda/Hoodie-Design-Black-Pullover-Fingerprint.png)
+
+

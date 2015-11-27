@@ -142,9 +142,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.33970994"
-     inkscape:cx="468.83282"
-     inkscape:cy="282.69398"
+     inkscape:zoom="1.0642475"
+     inkscape:cx="534.4687"
+     inkscape:cy="2700.4313"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      showgrid="false"
@@ -1253,12 +1253,12 @@
     <image
        sodipodi:absref="/home/user/Designs/QubesOS/website/assets/OTF-Logo.png"
        xlink:href="assets/OTF-Logo.png"
-       width="184.06779"
-       height="60"
-       preserveAspectRatio="none"
-       id="image11260"
+       y="-109.5"
        x="184.86555"
-       y="-109.5" />
+       id="image11260"
+       preserveAspectRatio="none"
+       height="60"
+       width="184.06779" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot7281-6-8"
@@ -1277,12 +1277,12 @@
          id="flowPara5001">Received Grants - 2015 &amp; 2016</flowPara></flowRoot>    <image
        sodipodi:absref="/home/user/Designs/QubesOS/website/assets/Access-Innovation-Prize.jpg"
        xlink:href="assets/Access-Innovation-Prize.jpg"
-       width="138.27161"
-       height="60"
-       preserveAspectRatio="none"
-       id="image12072"
+       y="37.112923"
        x="207.76364"
-       y="37.112923" />
+       id="image12072"
+       preserveAspectRatio="none"
+       height="60"
+       width="138.27161" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot7281-6-8-8"
@@ -1792,14 +1792,14 @@
       <image
          sodipodi:absref="/home/user/Designs/QubesOS/website/assets/picture-dan-bernstein.jpg"
          xlink:href="assets/picture-dan-bernstein.jpg"
-         clip-path="url(#clipPath8268)"
-         y="-1837.8268"
-         x="39.002995"
-         id="image5959"
-         preserveAspectRatio="none"
-         height="153.12781"
+         style="stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          width="102"
-         style="stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         height="153.12781"
+         preserveAspectRatio="none"
+         id="image5959"
+         x="39.002995"
+         y="-1837.8268"
+         clip-path="url(#clipPath8268)" />
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:#b7b7b7;stroke-width:0.85583657;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1"
          id="rect8270-6"
@@ -1816,13 +1816,13 @@
       <image
          sodipodi:absref="/home/user/Designs/QubesOS/website/assets/picture-micah-lee.jpg"
          xlink:href="assets/picture-micah-lee.jpg"
-         clip-path="url(#clipPath8272)"
-         y="-1826.1362"
-         x="541.65656"
-         id="image6644"
-         preserveAspectRatio="none"
+         width="110"
          height="110"
-         width="110" />
+         preserveAspectRatio="none"
+         id="image6644"
+         x="541.65656"
+         y="-1826.1362"
+         clip-path="url(#clipPath8272)" />
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:#b7b7b7;stroke-width:0.85583657;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1"
          id="rect8270-6-6"
@@ -1839,15 +1839,15 @@
       <image
          sodipodi:absref="/home/user/Designs/QubesOS/website/assets/picture-snowden.jpg"
          xlink:href="assets/picture-snowden.jpg"
-         clip-path="url(#clipPath8276)"
-         style="stroke:#313131;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         mask="none"
-         y="-1599.7068"
-         x="33.628258"
-         id="image5269-8"
-         preserveAspectRatio="none"
+         width="110"
          height="110"
-         width="110" />
+         preserveAspectRatio="none"
+         id="image5269-8"
+         x="33.628258"
+         y="-1599.7068"
+         mask="none"
+         style="stroke:#313131;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         clip-path="url(#clipPath8276)" />
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:#b7b7b7;stroke-width:0.85583657;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1"
          id="rect8270-6-7"
@@ -2359,13 +2359,13 @@
     <image
        sodipodi:absref="/home/user/Designs/QubesOS/website/assets/xen_project_logo_black_500x208.png"
        xlink:href="assets/xen_project_logo_black_500x208.png"
-       style="opacity:0.95"
-       y="-1386.5623"
-       x="180.11353"
-       id="image7700"
-       preserveAspectRatio="none"
+       width="225"
        height="100.63328"
-       width="225" />
+       preserveAspectRatio="none"
+       id="image7700"
+       x="180.11353"
+       y="-1386.5623"
+       style="opacity:0.95" />
     <g
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
        sketch:type="MSArtboardGroup"
@@ -2563,7 +2563,7 @@
        xml:space="preserve"
        id="flowRoot7281-6-7"
        style="font-style:normal;font-weight:normal;font-size:30px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(-595.82899,-2665.4928)"><flowRegion
+       transform="translate(-596.82899,-2669.4928)"><flowRegion
          id="flowRegion7283-1-2"><rect
            id="rect7285-4-16"
            width="327"
@@ -2574,22 +2574,20 @@
          id="flowPara8268-5">&quot;So Rutkowska flipped the game, this time in favor of the defenders.&quot;</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:30px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#88888f;fill-opacity:0.94117647;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="209.85876"
-       y="-1678.4927"
+       x="142.59654"
+       y="-1688.4927"
        id="text7368-8-9"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="209.85876"
-         y="-1678.4927"
+         x="142.59654"
+         y="-1688.4927"
          id="tspan7372-5-95"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Italic';fill:#88888f;fill-opacity:0.94117647"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#88888f;fill-opacity:0.94117647"
-   id="tspan7374-8-2">WIRED Magazine</tspan>, by Andy Greenberg</tspan></text>
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Italic';fill:#88888f;fill-opacity:0.94117647">by Andy Greenberg</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot7281-6-5-3"
        style="font-style:normal;font-weight:normal;font-size:30px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(-595.54676,-2864.8013)"><flowRegion
+       transform="translate(-597.54676,-2868.8013)"><flowRegion
          id="flowRegion7283-1-0-1"><rect
            id="rect7285-4-0-1"
            width="333.30078"
@@ -2600,17 +2598,15 @@
          id="flowPara8309-3">&quot;For those willing to put in the effort, Qubes is more secure than almost any other operating system available today&quot;</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:30px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#88888f;fill-opacity:0.94117647;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="168.4364"
-       y="-1856.4261"
+       x="108.01159"
+       y="-1866.4261"
        id="text7368-8-1-0"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="168.4364"
-         y="-1856.4261"
+         x="108.01159"
+         y="-1866.4261"
          id="tspan7372-5-9-8"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Italic';fill:#88888f;fill-opacity:0.94117647"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#88888f;fill-opacity:0.94117647"
-   id="tspan7374-8-6-8">The Economist </tspan>, by J.M.P.</tspan></text>
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Italic';fill:#88888f;fill-opacity:0.94117647">by J.M.P.</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot7281-6-9-9"
@@ -2626,44 +2622,42 @@
          id="flowPara8268-2-4">&quot;Finally, a 'Reasonably-Secure' Operating System: Qubes R3&quot;,</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:30px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#88888f;fill-opacity:0.94117647;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="196.21716"
-       y="-2087.7998"
+       x="123.90514"
+       y="-2091.7998"
        id="text7368-8-13-2"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="196.21716"
-         y="-2087.7998"
+         x="123.90514"
+         y="-2091.7998"
          id="tspan7372-5-6-6"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Italic';fill:#88888f;fill-opacity:0.94117647"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#88888f;fill-opacity:0.94117647"
-   id="tspan7374-8-9-2">VICE Motherboard</tspan>, by J.M. Porup</tspan></text>
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Italic';fill:#88888f;fill-opacity:0.94117647">by J.M. Porup</tspan></text>
     <image
        sodipodi:absref="/home/user/Designs/QubesOS/website/assets/the-economist-logo.jpg"
        xlink:href="assets/the-economist-logo.jpg"
-       y="-2027.2262"
-       x="80.435905"
-       id="image8918-2"
-       preserveAspectRatio="none"
+       width="121.47059"
        height="60"
-       width="121.47059" />
+       preserveAspectRatio="none"
+       id="image8918-2"
+       x="80.435905"
+       y="-2031.2262" />
     <image
        sodipodi:absref="/home/user/Designs/QubesOS/website/assets/wired-magazine-logo.png"
        xlink:href="assets/wired-magazine-logo.png"
-       y="-1819.6382"
-       x="81.435905"
-       id="image9646-7"
-       preserveAspectRatio="none"
+       width="189.33333"
        height="60"
-       width="189.33333" />
+       preserveAspectRatio="none"
+       id="image9646-7"
+       x="81.435905"
+       y="-1823.6382" />
     <image
        sodipodi:absref="/home/user/Designs/QubesOS/website/assets/motherboard-logo.png"
        xlink:href="assets/motherboard-logo.png"
-       y="-2207.1086"
-       x="80.435913"
-       id="image10626-5"
-       preserveAspectRatio="none"
+       width="256.40677"
        height="31"
-       width="256.40677" />
+       preserveAspectRatio="none"
+       id="image10626-5"
+       x="80.435913"
+       y="-2207.1086" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.5px;line-height:125%;font-family:'Ostrich Sans';-inkscape-font-specification:'Ostrich Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8e8e95;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -3244,7 +3238,7 @@
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Italic';text-align:start;text-anchor:start;fill:#8e8e95;fill-opacity:1"
          id="tspan5256-1-6-6-8-7-3"><tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start"
-   id="tspan8553-1-9-9-4-2">Joanna Rutskowska</tspan>, Aug, 2014</tspan></text>
+   id="tspan8553-1-9-9-4-2">Joanna Rutkowska</tspan>, Aug, 2014</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:30px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#111111;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -3275,7 +3269,7 @@
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Italic';text-align:start;text-anchor:start;fill:#8e8e95;fill-opacity:1"
          id="tspan5256-1-6-6-8-7-3-4"><tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start"
-   id="tspan8553-1-9-9-4-2-9">Joanna Rutskowska</tspan>, Sep, 2013</tspan></text>
+   id="tspan8553-1-9-9-4-2-9">Joanna Rutkowska</tspan>, Sep, 2013</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:30px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#111111;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"

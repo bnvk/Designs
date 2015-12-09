@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1200"
+   height="800"
+   id="svg6429"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   viewBox="0 0 1200 800"
+   sodipodi:docname="getting-started.svg">
+  <defs
+     id="defs6431" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="583.6885"
+     inkscape:cy="389.72301"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:window-width="1890"
+     inkscape:window-height="1049"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata6434">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(0,32)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="347"
+       y="89"
+       id="text6977"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6979"
+         x="347"
+         y="89">Getting Started</tspan></text>
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-opacity:1"
+       id="rect6981"
+       width="352"
+       height="208"
+       x="50"
+       y="146" />
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-opacity:1"
+       id="rect6983"
+       width="11"
+       height="18"
+       x="267"
+       y="307" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="139"
+       y="200"
+       id="text6987"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="139"
+         y="200"
+         id="tspan6991"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Try Qubes</tspan></text>
+    <rect
+       style="fill:#999999;fill-opacity:1;stroke:none;stroke-opacity:1"
+       id="rect6995"
+       width="205"
+       height="46"
+       x="122"
+       y="277"
+       ry="5"
+       rx="11.78161" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="139.43555"
+       y="309.03516"
+       id="text6987-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="139.43555"
+         y="309.03516"
+         id="tspan6991-1">Download Now</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="123.37231"
+       y="248.38806"
+       id="text6987-5-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="123.37231"
+         y="248.38806"
+         id="tspan6991-1-9">On Live USB stick</tspan></text>
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-opacity:1"
+       id="rect6981-3"
+       width="352"
+       height="208"
+       x="449"
+       y="148" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="518"
+       y="202"
+       id="text6987-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="518"
+         y="202"
+         id="tspan6991-5"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Requirements</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="477.37231"
+       y="257.38806"
+       id="text6987-5-6-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="477.37231"
+         y="257.38806"
+         id="tspan7101">Can your computer run Qubes?</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot7105"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+         id="flowRegion7107"><rect
+           id="rect7109"
+           width="232"
+           height="137"
+           x="108"
+           y="269" /></flowRegion><flowPara
+         id="flowPara7111" /></flowRoot>  </g>
+</svg>

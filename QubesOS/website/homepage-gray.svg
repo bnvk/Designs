@@ -97,32 +97,6 @@
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
-       id="clipPath8268">
-      <rect
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.85583657;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1"
-         id="rect8270"
-         width="99.144165"
-         height="99.144165"
-         x="40.927921"
-         y="-1817.072"
-         rx="10"
-         ry="10" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath8272">
-      <rect
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.85583657;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1"
-         id="rect8274"
-         width="99.144165"
-         height="99.144165"
-         x="548.42792"
-         y="-1821.572"
-         rx="10"
-         ry="10" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
        id="clipPath8276">
       <rect
          style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.85583657;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1"
@@ -134,6 +108,32 @@
          rx="10"
          ry="10" />
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6059">
+      <rect
+         ry="10"
+         rx="10"
+         y="-1821.5719"
+         x="548.42792"
+         height="99.144165"
+         width="99.144165"
+         id="rect6061"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.85583657;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6066">
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.85583657;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1"
+         id="rect6068"
+         width="84.211838"
+         height="84.211838"
+         x="80"
+         y="-2790.6399"
+         rx="8.4938774"
+         ry="8.4938774" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -142,17 +142,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0642475"
-     inkscape:cx="534.4687"
-     inkscape:cy="2700.4313"
+     inkscape:zoom="1"
+     inkscape:cx="540.45914"
+     inkscape:cy="2671.3599"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      showgrid="false"
      inkscape:snap-text-baseline="true"
-     inkscape:window-width="1890"
-     inkscape:window-height="982"
-     inkscape:window-x="4"
-     inkscape:window-y="47"
+     inkscape:window-width="1826"
+     inkscape:window-height="1002"
+     inkscape:window-x="71"
+     inkscape:window-y="172"
      inkscape:window-maximized="0"
      showguides="false"
      inkscape:guide-bbox="true">
@@ -296,6 +296,15 @@
        y="2652.5613"
        rx="10"
        ry="10" />
+    <image
+       sodipodi:absref="/home/user/Designs/QubesOS/website/assets/motherboard-logo.png"
+       xlink:href="assets/motherboard-logo.png"
+       y="1031.0536"
+       x="83.25"
+       id="image5494"
+       preserveAspectRatio="none"
+       height="23.571428"
+       width="250" />
   </g>
   <g
      id="layer1"
@@ -1274,7 +1283,7 @@
            y="916"
            style="font-size:15px;fill:#111111;fill-opacity:1" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1"
-         id="flowPara5001">Received Grants - 2015 &amp; 2016</flowPara></flowRoot>    <image
+         id="flowPara5001">2015 &amp; 2016</flowPara></flowRoot>    <image
        sodipodi:absref="/home/user/Designs/QubesOS/website/assets/Access-Innovation-Prize.jpg"
        xlink:href="assets/Access-Innovation-Prize.jpg"
        y="37.112923"
@@ -1298,7 +1307,7 @@
            y="916"
            style="fill:#111111;fill-opacity:1" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#111111;fill-opacity:1"
-         id="flowPara5003">Access Endpoint Security Finalist</flowPara></flowRoot>    <text
+         id="flowPara5003">Endpoint Security Finalist</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:FreeSans;-inkscape-font-specification:'FreeSans, Semi-Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#111111;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="49.851437"
@@ -1786,53 +1795,46 @@
          x="558.35046"
          y="-2110.7244"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5px;font-family:'Opens Sans';-inkscape-font-specification:'Opens Sans Bold';text-align:start;text-anchor:start;fill:#111111;fill-opacity:1">Article about Qubes OS in Motherboard</tspan></text>
-    <g
-       id="g8337"
-       transform="matrix(0.84938773,0,0,0.84938773,45.236325,-1248.7411)">
-      <image
-         sodipodi:absref="/home/user/Designs/QubesOS/website/assets/picture-dan-bernstein.jpg"
-         xlink:href="assets/picture-dan-bernstein.jpg"
-         style="stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         width="102"
-         height="153.12781"
-         preserveAspectRatio="none"
-         id="image5959"
-         x="39.002995"
-         y="-1837.8268"
-         clip-path="url(#clipPath8268)" />
-      <rect
-         style="opacity:1;fill:none;fill-opacity:1;stroke:#b7b7b7;stroke-width:0.85583657;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1"
-         id="rect8270-6"
-         width="99.144165"
-         height="99.144165"
-         x="41.427917"
-         y="-1817.572"
-         rx="10"
-         ry="10" />
-    </g>
-    <g
-       id="g8333"
-       transform="matrix(0.84999999,0,0,0.84999999,88.190907,-1244.4769)">
-      <image
-         sodipodi:absref="/home/user/Designs/QubesOS/website/assets/picture-micah-lee.jpg"
-         xlink:href="assets/picture-micah-lee.jpg"
-         width="110"
-         height="110"
-         preserveAspectRatio="none"
-         id="image6644"
-         x="541.65656"
-         y="-1826.1362"
-         clip-path="url(#clipPath8272)" />
-      <rect
-         style="opacity:1;fill:none;fill-opacity:1;stroke:#b7b7b7;stroke-width:0.85583657;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1"
-         id="rect8270-6-6"
-         width="99.144165"
-         height="99.144165"
-         x="548.36725"
-         y="-1821.2792"
-         rx="10"
-         ry="10" />
-    </g>
+    <image
+       sodipodi:absref="/home/user/Designs/QubesOS/website/assets/picture-dan-bernstein.jpg"
+       xlink:href="assets/picture-dan-bernstein.jpg"
+       clip-path="url(#clipPath6066)"
+       y="-2791.7034"
+       x="78.36499"
+       id="image5959"
+       preserveAspectRatio="none"
+       height="85.999992"
+       width="86.63755"
+       style="stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       ry="8.4938774"
+       rx="8.4938774"
+       y="-2790.5645"
+       x="79.92469"
+       height="84.211838"
+       width="84.211838"
+       id="rect8270-6"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#b7b7b7;stroke-width:0.72693706;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1" />
+    <image
+       sodipodi:absref="/home/user/Designs/QubesOS/website/assets/picture-micah-lee.jpg"
+       xlink:href="assets/picture-micah-lee.jpg"
+       transform="matrix(0.84999999,0,0,0.84999999,88.190907,-1244.4769)"
+       clip-path="url(#clipPath6059)"
+       y="-1826.1362"
+       x="541.65656"
+       id="image6644"
+       preserveAspectRatio="none"
+       height="110"
+       width="110" />
+    <rect
+       ry="8.5"
+       rx="8.5"
+       y="-2792.5642"
+       x="554.30304"
+       height="84.272537"
+       width="84.272537"
+       id="rect8270-6-6"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#b7b7b7;stroke-width:0.7274611;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1" />
     <g
        id="g8341"
        transform="matrix(0.84999999,0,0,0.84999999,46.85,-1202.25)">
@@ -2356,16 +2358,6 @@
            height="100%" />
       </g>
     </g>
-    <image
-       sodipodi:absref="/home/user/Designs/QubesOS/website/assets/xen_project_logo_black_500x208.png"
-       xlink:href="assets/xen_project_logo_black_500x208.png"
-       width="225"
-       height="100.63328"
-       preserveAspectRatio="none"
-       id="image7700"
-       x="180.11353"
-       y="-1386.5623"
-       style="opacity:0.95" />
     <g
        style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
        sketch:type="MSArtboardGroup"
@@ -2631,33 +2623,6 @@
          y="-2091.7998"
          id="tspan7372-5-6-6"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Italic';fill:#88888f;fill-opacity:0.94117647">by J.M. Porup</tspan></text>
-    <image
-       sodipodi:absref="/home/user/Designs/QubesOS/website/assets/the-economist-logo.jpg"
-       xlink:href="assets/the-economist-logo.jpg"
-       width="121.47059"
-       height="60"
-       preserveAspectRatio="none"
-       id="image8918-2"
-       x="80.435905"
-       y="-2031.2262" />
-    <image
-       sodipodi:absref="/home/user/Designs/QubesOS/website/assets/wired-magazine-logo.png"
-       xlink:href="assets/wired-magazine-logo.png"
-       width="189.33333"
-       height="60"
-       preserveAspectRatio="none"
-       id="image9646-7"
-       x="81.435905"
-       y="-1823.6382" />
-    <image
-       sodipodi:absref="/home/user/Designs/QubesOS/website/assets/motherboard-logo.png"
-       xlink:href="assets/motherboard-logo.png"
-       width="256.40677"
-       height="31"
-       preserveAspectRatio="none"
-       id="image10626-5"
-       x="80.435913"
-       y="-2207.1086" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.5px;line-height:125%;font-family:'Ostrich Sans';-inkscape-font-specification:'Ostrich Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#8e8e95;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2878,7 +2843,7 @@
          id="tspan4384-7-3-7-3-6">Email Support Forums</tspan></text>
     <g
        id="g6999"
-       transform="matrix(0.41163334,0,0,0.41163334,133.78174,-641.07515)">
+       transform="matrix(0.36591094,0,0,0.36591094,157.80543,-660.08394)">
       <g
          transform="matrix(0.35495544,0,0,0.35495544,230.21099,-460.37338)"
          style="display:inline"
@@ -2957,27 +2922,27 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:30px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#8a8a8a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="342.74677"
-       y="-799.15686"
+       x="344.74677"
+       y="-800.30676"
        id="text6745-6-5"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan6747-6-2"
-         x="342.74677"
-         y="-799.15686"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:17.5px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#8a8a8a;fill-opacity:1">networking</tspan></text>
+         x="344.74677"
+         y="-800.30676"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:15px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#8a8a8a;fill-opacity:1">networking</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:30px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#8a8a8a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="215.52661"
-       y="-797.14026"
+       x="229.52661"
+       y="-800.57825"
        id="text6745-6-5-4"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan6747-6-2-9"
-         x="215.52661"
-         y="-797.14026"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:17.5px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#8a8a8a;fill-opacity:1">with</tspan></text>
+         x="229.52661"
+         y="-800.57825"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:15px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#8a8a8a;fill-opacity:1">with</tspan></text>
     <text
        sodipodi:linespacing="150%"
        id="text4662-5-4-9-4-0-2-8-9-3-1-8-5-6-9-5-8-95"
@@ -2993,28 +2958,28 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:30px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#8a8a8a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="306.31195"
-       y="-1046.1028"
+       x="303.47296"
+       y="-1048.9576"
        id="text6745-6-5-40-8"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="308.5849"
-         y="-1046.1028"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:17.5px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#8a8a8a;fill-opacity:1"
-         id="tspan5267">Use Fedora 21, Debian 8, </tspan><tspan
+         x="305.4212"
+         y="-1048.9576"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:15px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#8a8a8a;fill-opacity:1"
+         id="tspan5267">Use Fedora, Debian, or </tspan><tspan
          sodipodi:role="line"
-         x="306.31195"
-         y="-1024.2278"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:17.5px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#8a8a8a;fill-opacity:1"
-         id="tspan5271">or even Windows</tspan><tspan
+         x="303.47296"
+         y="-1030.2076"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:15px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#8a8a8a;fill-opacity:1"
+         id="tspan5271">even Windows</tspan><tspan
          sodipodi:role="line"
-         x="306.31195"
-         y="-1002.3528"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:17.5px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#8a8a8a;fill-opacity:1"
+         x="303.47296"
+         y="-1011.4576"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:15px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#8a8a8a;fill-opacity:1"
          id="tspan5265" /></text>
     <g
        id="g5345"
-       transform="matrix(0.96100001,0,0,0.96100001,-26.160426,-493.89851)">
+       transform="matrix(0.96100001,0,0,0.96100001,-26.160426,-489.89851)">
       <g
          transform="matrix(0.69380845,0,0,0.69380845,306.7632,-676.18864)"
          i:rgbTrio="#4F008000FFFF"
@@ -3311,5 +3276,32 @@
          d="m 192.22655,-547.0005 c -0.37607,0 -11.06322,0 -11.06322,0 0,0 -1.20044,0.2381 -1.20044,1.3982 l 0,21.3999 c 0,0 0.25101,1.2014 1.37107,1.2014 l 16.87888,0 c 1.23021,0 1.44747,-1.2014 1.44747,-1.2014 l 0,-15.2073 c 0,-1.1035 -0.66749,-1.6444 -0.66749,-1.6444 l -5.20067,-5.3272 c 0,0 -0.52882,-0.6197 -1.5656,-0.6197 z m -8.94029,2.3615 8.11765,0 c 0.86998,0 0.80342,0.9604 0.80342,0.9604 l 0,2.5753 c 0,0 -0.14343,1.1904 1.02654,1.2004 0.87023,0.01 3.10494,0 3.10494,0 0,0 0.96139,-0.01 0.96139,0.8897 0,2.8406 0.008,12.019 -4.8e-4,12.5707 -0.0161,1.05 -0.96092,1.0805 -0.96092,1.0805 l -13.05255,0 c 0,0 -0.94269,-0.03 -0.96045,-0.9605 -0.0139,-0.7236 0,-17.4001 0,-17.4001 0,0 0.078,-0.9164 0.96045,-0.9164 z m 2.02543,8.157 c -0.33143,0 -0.59999,0.2686 -0.59999,0.6 0,0.3314 0.26856,0.6 0.59999,0.6 l 8.99982,0 c 0.33143,0 0.59999,-0.2686 0.59999,-0.6 0,-0.3314 -0.26856,-0.6 -0.59999,-0.6 l -8.99982,0 z m 0,3.3609 c -0.33143,0 -0.59999,0.2685 -0.59999,0.6 0,0.3314 0.26856,0.6 0.59999,0.6 l 8.99982,0 c 0.33143,0 0.59999,-0.2686 0.59999,-0.6 0,-0.3315 -0.26856,-0.6 -0.59999,-0.6 l -8.99982,0 z m 0,3.3998 c -0.33143,0 -0.59999,0.2685 -0.59999,0.6 0,0.3314 0.26856,0.6 0.59999,0.6 l 8.99982,0 c 0.33143,0 0.59999,-0.2686 0.59999,-0.6 0,-0.3315 -0.26856,-0.6 -0.59999,-0.6 l -8.99982,0 z"
          inkscape:connector-curvature="0" />
     </g>
+    <image
+       sodipodi:absref="/home/user/Designs/QubesOS/website/assets/wired-magazine-logo.png"
+       xlink:href="assets/wired-magazine-logo.png"
+       y="-1806.5"
+       x="79.5"
+       id="image6188"
+       preserveAspectRatio="none"
+       height="40"
+       width="200" />
+    <image
+       sodipodi:absref="/home/user/Designs/QubesOS/website/assets/the-economist-logo.png"
+       xlink:href="assets/the-economist-logo.png"
+       y="-2035.0498"
+       x="81.625"
+       id="image7428"
+       preserveAspectRatio="none"
+       height="60"
+       width="120.68965" />
+    <image
+       sodipodi:absref="/home/user/Designs/QubesOS/website/assets/xen-project-logo.png"
+       xlink:href="assets/xen-project-logo.png"
+       y="-1382.0358"
+       x="169.25"
+       id="image8668"
+       preserveAspectRatio="none"
+       height="104.28571"
+       width="250" />
   </g>
 </svg>

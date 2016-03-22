@@ -17,7 +17,7 @@
    height="4400"
    id="svg3715"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.48.5 r10040"
    viewBox="0 0 1024 4400"
    sodipodi:docname="homepage-gray.svg"
    inkscape:export-filename="/home/user/Designs/QubesOS/website/PNGs/homepage-gray.png"
@@ -142,17 +142,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="540.45914"
-     inkscape:cy="2671.3599"
+     inkscape:zoom="1.1739077"
+     inkscape:cx="518.09354"
+     inkscape:cy="3052.824"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      showgrid="false"
      inkscape:snap-text-baseline="true"
      inkscape:window-width="1826"
      inkscape:window-height="1002"
-     inkscape:window-x="71"
-     inkscape:window-y="172"
+     inkscape:window-x="58"
+     inkscape:window-y="25"
      inkscape:window-maximized="0"
      showguides="false"
      inkscape:guide-bbox="true">
@@ -299,12 +299,12 @@
     <image
        sodipodi:absref="/home/user/Designs/QubesOS/website/assets/motherboard-logo.png"
        xlink:href="assets/motherboard-logo.png"
-       y="1031.0536"
-       x="83.25"
-       id="image5494"
-       preserveAspectRatio="none"
+       width="250"
        height="23.571428"
-       width="250" />
+       preserveAspectRatio="none"
+       id="image5494"
+       x="83.25"
+       y="1031.0536" />
   </g>
   <g
      id="layer1"
@@ -1262,12 +1262,12 @@
     <image
        sodipodi:absref="/home/user/Designs/QubesOS/website/assets/OTF-Logo.png"
        xlink:href="assets/OTF-Logo.png"
-       y="-109.5"
-       x="184.86555"
-       id="image11260"
-       preserveAspectRatio="none"
+       width="184.06779"
        height="60"
-       width="184.06779" />
+       preserveAspectRatio="none"
+       id="image11260"
+       x="184.86555"
+       y="-109.5" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot7281-6-8"
@@ -1286,12 +1286,12 @@
          id="flowPara5001">2015 &amp; 2016</flowPara></flowRoot>    <image
        sodipodi:absref="/home/user/Designs/QubesOS/website/assets/Access-Innovation-Prize.jpg"
        xlink:href="assets/Access-Innovation-Prize.jpg"
-       y="37.112923"
-       x="207.76364"
-       id="image12072"
-       preserveAspectRatio="none"
+       width="138.27161"
        height="60"
-       width="138.27161" />
+       preserveAspectRatio="none"
+       id="image12072"
+       x="207.76364"
+       y="37.112923" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot7281-6-8-8"
@@ -1798,14 +1798,14 @@
     <image
        sodipodi:absref="/home/user/Designs/QubesOS/website/assets/picture-dan-bernstein.jpg"
        xlink:href="assets/picture-dan-bernstein.jpg"
-       clip-path="url(#clipPath6066)"
-       y="-2791.7034"
-       x="78.36499"
-       id="image5959"
-       preserveAspectRatio="none"
-       height="85.999992"
+       style="stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        width="86.63755"
-       style="stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       height="85.999992"
+       preserveAspectRatio="none"
+       id="image5959"
+       x="78.36499"
+       y="-2791.7034"
+       clip-path="url(#clipPath6066)" />
     <rect
        ry="8.4938774"
        rx="8.4938774"
@@ -1818,14 +1818,14 @@
     <image
        sodipodi:absref="/home/user/Designs/QubesOS/website/assets/picture-micah-lee.jpg"
        xlink:href="assets/picture-micah-lee.jpg"
-       transform="matrix(0.84999999,0,0,0.84999999,88.190907,-1244.4769)"
-       clip-path="url(#clipPath6059)"
-       y="-1826.1362"
-       x="541.65656"
-       id="image6644"
-       preserveAspectRatio="none"
+       width="110"
        height="110"
-       width="110" />
+       preserveAspectRatio="none"
+       id="image6644"
+       x="541.65656"
+       y="-1826.1362"
+       clip-path="url(#clipPath6059)"
+       transform="matrix(0.84999999,0,0,0.84999999,88.190907,-1244.4769)" />
     <rect
        ry="8.5"
        rx="8.5"
@@ -1841,15 +1841,15 @@
       <image
          sodipodi:absref="/home/user/Designs/QubesOS/website/assets/picture-snowden.jpg"
          xlink:href="assets/picture-snowden.jpg"
-         width="110"
-         height="110"
-         preserveAspectRatio="none"
-         id="image5269-8"
-         x="33.628258"
-         y="-1599.7068"
-         mask="none"
+         clip-path="url(#clipPath8276)"
          style="stroke:#313131;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         clip-path="url(#clipPath8276)" />
+         mask="none"
+         y="-1599.7068"
+         x="33.628258"
+         id="image5269-8"
+         preserveAspectRatio="none"
+         height="110"
+         width="110" />
       <rect
          style="opacity:1;fill:none;fill-opacity:1;stroke:#b7b7b7;stroke-width:0.85583657;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:5;stroke-opacity:1"
          id="rect8270-6-7"
@@ -3279,29 +3279,29 @@
     <image
        sodipodi:absref="/home/user/Designs/QubesOS/website/assets/wired-magazine-logo.png"
        xlink:href="assets/wired-magazine-logo.png"
-       y="-1806.5"
-       x="79.5"
-       id="image6188"
-       preserveAspectRatio="none"
+       width="200"
        height="40"
-       width="200" />
+       preserveAspectRatio="none"
+       id="image6188"
+       x="79.5"
+       y="-1806.5" />
     <image
        sodipodi:absref="/home/user/Designs/QubesOS/website/assets/the-economist-logo.png"
        xlink:href="assets/the-economist-logo.png"
-       y="-2035.0498"
-       x="81.625"
-       id="image7428"
-       preserveAspectRatio="none"
+       width="120.68965"
        height="60"
-       width="120.68965" />
+       preserveAspectRatio="none"
+       id="image7428"
+       x="81.625"
+       y="-2035.0498" />
     <image
        sodipodi:absref="/home/user/Designs/QubesOS/website/assets/xen-project-logo.png"
        xlink:href="assets/xen-project-logo.png"
-       y="-1382.0358"
-       x="169.25"
-       id="image8668"
-       preserveAspectRatio="none"
+       width="250"
        height="104.28571"
-       width="250" />
+       preserveAspectRatio="none"
+       id="image8668"
+       x="169.25"
+       y="-1382.0358" />
   </g>
 </svg>

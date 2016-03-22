@@ -15,7 +15,10 @@
    id="svg5021"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="qubes-logo.svg">
+   sodipodi:docname="qubes-logo.svg"
+   inkscape:export-filename="/home/user/Designs/QubesOS/website/qubes-logo.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs5023" />
   <sodipodi:namedview
@@ -25,8 +28,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.9140625"
-     inkscape:cx="185.80885"
+     inkscape:zoom="1.8504152"
+     inkscape:cx="147.97757"
      inkscape:cy="81.142857"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -45,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

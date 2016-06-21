@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.32978675"
-     inkscape:cx="242.77899"
-     inkscape:cy="958.85187"
+     inkscape:zoom="1.5303386"
+     inkscape:cx="395.87686"
+     inkscape:cy="1507.75"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -74,7 +74,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -350,18 +350,6 @@
          x="155.14917"
          y="666.50745"
          style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans">#arts  #food  #interesting</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       x="154.83765"
-       y="637.67725"
-       id="text3774-0-10-44-3-7"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3776-3-7-5-9-6"
-         x="154.83765"
-         y="637.67725"
-         style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Open Sans;-inkscape-font-specification:Open Sans">Co-Working Space</tspan></text>
     <g
        transform="matrix(0.4228395,0,0,0.4228395,783.86447,-264.73612)"
        id="g3269-9">
@@ -502,12 +490,7 @@
          x="382.2796"
          y="630.66956"
          style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-         id="tspan4581-0">- City (Berlin, New York)</tspan><tspan
-         sodipodi:role="line"
-         x="382.2796"
-         y="643.16956"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-         id="tspan4291-8-4">- Type (Co-working, Community)</tspan></text>
+         id="tspan4291-8-4">- City (Berlin, New York)</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
@@ -804,18 +787,6 @@
          x="155.12315"
          y="773.35382"
          style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans">#design  #open source</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       x="154.81163"
-       y="744.52362"
-       id="text3774-0-10-44-3-7-7"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3776-3-7-5-9-6-0"
-         x="154.81163"
-         y="744.52362"
-         style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Open Sans;-inkscape-font-specification:Open Sans">Open Community</tspan></text>
     <path
        style="fill:#999999;fill-opacity:1"
        sodipodi:nodetypes="ccccccccccccccccccccccccccccccc"
@@ -866,18 +837,6 @@
          x="155.12317"
          y="882.59662"
          style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans">#startups  #makerspace</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       x="154.81165"
-       y="853.76642"
-       id="text3774-0-10-44-3-7-7-5"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3776-3-7-5-9-6-0-7"
-         x="154.81165"
-         y="853.76642"
-         style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Open Sans;-inkscape-font-specification:Open Sans">Co-Working Space</tspan></text>
     <path
        style="fill:#999999;fill-opacity:1"
        sodipodi:nodetypes="ccccccccccccccccccccccccccccccc"
@@ -1227,18 +1186,6 @@
          x="889.30774"
          y="550.80237"
          style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans">Agora Collective</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       x="888.66858"
-       y="569.26324"
-       id="text3774-0-10-44-3-73"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3776-3-7-5-9-61"
-         x="888.66858"
-         y="569.26324"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Open Sans;-inkscape-font-specification:Open Sans">Co-Working Space </tspan></text>
     <rect
        style="fill:#ececec;fill-opacity:1;stroke:none"
        id="rect3913-0-8-1-1-1-2"
@@ -1461,7 +1408,7 @@
          id="tspan3776-3-7-5-9-6-8"
          x="84.101257"
          y="-477.7681"
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Open Sans;-inkscape-font-specification:Open Sans">Co-Working Space</tspan></text>
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Open Sans;-inkscape-font-specification:Open Sans">Berlin</tspan></text>
     <rect
        style="fill:#ececec;fill-opacity:1;stroke:none"
        id="rect3913-0-8-1-1-1-0-8"
@@ -1630,12 +1577,7 @@
          x="382.2796"
          y="-513.39587"
          style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-         id="tspan4581-0-6">- City (Berlin, New York)</tspan><tspan
-         sodipodi:role="line"
-         x="382.2796"
-         y="-500.89584"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-         id="tspan4291-8-4-1">- Type (Co-working, Community)</tspan></text>
+         id="tspan4291-8-4-1">- City (Berlin, New York)</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"
@@ -1707,28 +1649,23 @@
        id="text3774-0-10-6-2-1-3-3-1-54-7-7"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan3776-3-7-0-5-6-6-5-9-7-7-6"
          x="1123.6761"
          y="569.7262"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans">- Name</tspan><tspan
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+         id="tspan4581-2-7">- Name</tspan><tspan
          sodipodi:role="line"
          x="1123.6761"
          y="582.2262"
          style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-         id="tspan4581-2-7">- Category</tspan><tspan
+         id="tspan5888-3">- Location</tspan><tspan
          sodipodi:role="line"
          x="1123.6761"
          y="594.7262"
          style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-         id="tspan5888-3">- Location</tspan><tspan
-         sodipodi:role="line"
-         x="1123.6761"
-         y="607.2262"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
          id="tspan4295-4-6-6">- Hashtags</tspan><tspan
          sodipodi:role="line"
          x="1123.6761"
-         y="619.7262"
+         y="607.2262"
          style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
          id="tspan4291-8-5-5">- Relationship</tspan></text>
     <text
@@ -2016,18 +1953,6 @@
          x="1576.6957"
          y="-16.509706"
          style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans">Agora Collective</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-       x="1576.0565"
-       y="1.9511693"
-       id="text3774-0-10-44-3-3-4"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3776-3-7-5-9-5-0"
-         x="1576.0565"
-         y="1.9511693"
-         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;font-family:Open Sans;-inkscape-font-specification:Open Sans">Co-Working Space </tspan></text>
     <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
@@ -2401,7 +2326,7 @@
          id="tspan3776-3-7-9-9-0-0-0-5-0"
          x="84.223328"
          y="-511.8699"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans">Category</tspan></text>
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans">Location</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"

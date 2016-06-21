@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.48.5 r10040"
    sodipodi:docname="missions-profile.svg"
-   inkscape:export-filename="/home/user/Designs/Coliga/missions-profile.png"
+   inkscape:export-filename="/home/user/Designs/Coliga/PNGs/missions-profile.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -28,8 +28,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0821128"
-     inkscape:cx="165.90204"
+     inkscape:zoom="0.31383897"
+     inkscape:cx="166.46531"
      inkscape:cy="759.44598"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -74,7 +74,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -87,11 +87,11 @@
        style="fill:#ffffff;fill-opacity:1;stroke:none"
        id="rect3377"
        width="2195.5217"
-       height="1201.8236"
+       height="1741.6444"
        x="2.0404477"
-       y="-143.38057"
+       y="-683.20142"
        rx="3.0307407"
-       ry="4" />
+       ry="5.7966723" />
     <rect
        style="fill:#ececec;fill-opacity:1;stroke:none"
        id="rect4840-9"
